@@ -9,7 +9,7 @@ public class CreateStudentTable {
 
         String url = "jdbc:mysql://localhost:3306/college";
         String username = "root";
-        String password = "root";
+        String password = "122004";
 
         Connection connection = null;
         Statement statement = null;
