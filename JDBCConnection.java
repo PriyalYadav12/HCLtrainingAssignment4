@@ -6,9 +6,9 @@ public class JDBCConnectionDemo {
 
     public static void main(String[] args) {
 
-        String url = "jdbc:mysql://localhost:3306/testdb";
+        String url = "jdbc:mysql://localhost:3306/college";
         String username = "root";
-        String password = "root";
+        String password = "121020";
 
         Connection connection = null;
 
